@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/724d5e9fea3ca819087eaecdbaf88ab6_window_models.jpg
+file: /courses/mb-may-17-ocw-course-foo/724d5e9fea3ca819087eaecdbaf88ab6_window_models.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
