@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/mb-may-17-ocw-course-fall-2025/8ff14b1abae2917f3e9bf54a1d0d7707_rolfes_letter.pdf
+file: /courses/8ff14b1abae2917f3e9bf54a1d0d7707_rolfes_letter.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
